@@ -20,6 +20,9 @@ programs and lets users complete workouts and track their results.
 
 [Frontend](https://github.com/PabloVecilla/WorkoutBuddy_FRONT) · [Backend](https://github.com/PabloVecilla/WorkoutBuddy_BACK)
 
+[Deploy](https://delightful-medovik-a9df46.netlify.app) 
+
+
 ### FilmApp
 Movie discovery and management application with user/admin roles,
 favorites, external API integration and hybrid persistence.
@@ -30,6 +33,9 @@ favorites, external API integration and hybrid persistence.
 - OpenAPI, integration testing and CI
 
 [Repository](https://github.com/PabloVecilla/filmApp)
+
+[Deploy](https://filmapp-whbs.onrender.com/home) 
+
 
 ### Sentinel
 Collaborative fraud-detection dashboard developed with Full-Stack,
